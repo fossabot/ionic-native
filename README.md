@@ -1,4 +1,5 @@
-[![Circle CI](https://circleci.com/gh/ionic-team/ionic-native.svg?style=shield)](https://circleci.com/gh/ionic-team/ionic-native) [![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/) ![](https://img.shields.io/npm/v/@ionic-native/core.svg)
+[![Circle CI](https://circleci.com/gh/ionic-team/ionic-native.svg?style=shield)](https://circleci.com/gh/ionic-team/ionic-native) [![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/) [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcanv15%2Fionic-native.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcanv15%2Fionic-native?ref=badge_shield)
+![](https://img.shields.io/npm/v/@ionic-native/core.svg)
 
 
 # Ionic Native
@@ -176,3 +177,7 @@ Mike Hartington - [@mhartington](https://twitter.com/mhartington)
 Max Lynch - [@maxlynch](https://twitter.com/maxlynch)
 
 Rob Wormald - [@robwormald](https://twitter.com/robwormald)
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcanv15%2Fionic-native.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcanv15%2Fionic-native?ref=badge_large)
